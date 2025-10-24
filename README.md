@@ -1,3 +1,4 @@
+# Kosilo-app
 # 🍽️ KOSILA-APP
 
 Preprosta React + Supabase aplikacija za planiranje kosil.
